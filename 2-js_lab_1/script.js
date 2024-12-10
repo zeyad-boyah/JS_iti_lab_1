@@ -15,7 +15,7 @@ let age = currentYear - year;
 
 
 document.write(`<span style="text-decoration: underline;">Name:</span>`);
-document.write(`<span>` + "&#32;" + user_name) + `</span>`; 
+document.write(`<span>` + "&#32;" + user_name + `</span>`) ; 
 
 document.write("<br>");
 
